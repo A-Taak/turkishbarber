@@ -54,8 +54,8 @@ const Header = () => {
                 <div className="container">
 
                     <a href="#" className="logo">
-                        R Barbers
-                        <span className="span">Hair Salon</span>
+                        Best Turkish Barbers
+                        <span className="span">Hairdressers</span>
                     </a>
 
                     <nav className="navbar container" data-navbar>

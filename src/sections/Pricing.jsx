@@ -35,7 +35,7 @@ const Pricing = () => {
                                 <div className="btn-icon">
                                     <i className="flaticon-relax" aria-hidden="true"></i>
                                 </div>
-                                <p className="btn-text">Beauty & Spa</p>
+                                <p className="btn-text">Towel and Wash</p>
                             </button>
                         </li>
 
@@ -44,7 +44,7 @@ const Pricing = () => {
                                 <div className="btn-icon">
                                     <i className="flaticon-massage" aria-hidden="true"></i>
                                 </div>
-                                <p className="btn-text">Body Treatments</p>
+                                <p className="btn-text">Hair Cuts</p>
                             </button>
                         </li>
 
@@ -53,7 +53,7 @@ const Pricing = () => {
                                 <div className="btn-icon">
                                     <i className="flaticon-spa" aria-hidden="true"></i>
                                 </div>
-                                <p className="btn-text">Face Washing</p>
+                                <p className="btn-text">Children</p>
                             </button>
                         </li>
 

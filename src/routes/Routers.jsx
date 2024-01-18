@@ -10,7 +10,7 @@ const Routers = () => {
                 <Services />
                 <Pricing />
                 <Gallery />
-                <Appointment />
+                {/*<Appointment />*/}
             </>
 };
 

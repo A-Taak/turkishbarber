@@ -61,51 +61,51 @@ const Services = () => {
                         </div>
                     </li>
 
-                    <li>
-                        <div className="service-card">
+                    {/*<li>*/}
+                    {/*    <div className="service-card">*/}
 
-                            <div className="card-icon">
-                                <i className="flaticon-hot-stone"></i>
-                            </div>
+                    {/*        <div className="card-icon">*/}
+                    {/*            <i className="flaticon-hot-stone"></i>*/}
+                    {/*        </div>*/}
 
-                            <h3 className="h3">
-                                <a href="#" className="card-title">Body Treatments</a>
-                            </h3>
+                    {/*        <h3 className="h3">*/}
+                    {/*            <a href="#" className="card-title">Body Treatments</a>*/}
+                    {/*        </h3>*/}
 
-                            <p className="card-text">
-                                Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
-                            </p>
+                    {/*        <p className="card-text">*/}
+                    {/*            Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore*/}
+                    {/*            magna aliqua.*/}
+                    {/*        </p>*/}
 
-                            <a href="#" className="card-btn" aria-label="more">
-                                <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                            </a>
+                    {/*        <a href="#" className="card-btn" aria-label="more">*/}
+                    {/*            <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>*/}
+                    {/*        </a>*/}
 
-                        </div>
-                    </li>
+                    {/*    </div>*/}
+                    {/*</li>*/}
 
-                    <li>
-                        <div className="service-card">
+                    {/*<li>*/}
+                    {/*    <div className="service-card">*/}
 
-                            <div className="card-icon">
-                                <i className="flaticon-treatment"></i>
-                            </div>
+                    {/*        <div className="card-icon">*/}
+                    {/*            <i className="flaticon-treatment"></i>*/}
+                    {/*        </div>*/}
 
-                            <h3 className="h3">
-                                <a href="#" className="card-title">Beauty & Spa</a>
-                            </h3>
+                    {/*        <h3 className="h3">*/}
+                    {/*            <a href="#" className="card-title">Beauty & Spa</a>*/}
+                    {/*        </h3>*/}
 
-                            <p className="card-text">
-                                Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
-                            </p>
+                    {/*        <p className="card-text">*/}
+                    {/*            Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore*/}
+                    {/*            magna aliqua.*/}
+                    {/*        </p>*/}
 
-                            <a href="#" className="card-btn" aria-label="more">
-                                <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                            </a>
+                    {/*        <a href="#" className="card-btn" aria-label="more">*/}
+                    {/*            <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>*/}
+                    {/*        </a>*/}
 
-                        </div>
-                    </li>
+                    {/*    </div>*/}
+                    {/*</li>*/}
 
                     <li>
                         <div className="service-card">
@@ -130,28 +130,28 @@ const Services = () => {
                         </div>
                     </li>
 
-                    <li>
-                        <div className="service-card">
+                    {/*<li>*/}
+                    {/*    <div className="service-card">*/}
 
-                            <div className="card-icon">
-                                <i className="flaticon-hair-dye"></i>
-                            </div>
+                    {/*        <div className="card-icon">*/}
+                    {/*            <i className="flaticon-hair-dye"></i>*/}
+                    {/*        </div>*/}
 
-                            <h3 className="h3">
-                                <a href="#" className="card-title">Multi Hair Colors</a>
-                            </h3>
+                    {/*        <h3 className="h3">*/}
+                    {/*            <a href="#" className="card-title">Multi Hair Colors</a>*/}
+                    {/*        </h3>*/}
 
-                            <p className="card-text">
-                                Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
-                            </p>
+                    {/*        <p className="card-text">*/}
+                    {/*            Sit amet consectetur adipisci elit sed do eiusmod tempor incididunt ut labore et dolore*/}
+                    {/*            magna aliqua.*/}
+                    {/*        </p>*/}
 
-                            <a href="#" className="card-btn" aria-label="more">
-                                <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                            </a>
+                    {/*        <a href="#" className="card-btn" aria-label="more">*/}
+                    {/*            <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>*/}
+                    {/*        </a>*/}
 
-                        </div>
-                    </li>
+                    {/*    </div>*/}
+                    {/*</li>*/}
 
                 </ul>
 
